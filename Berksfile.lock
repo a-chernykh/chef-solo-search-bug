@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "chef-solo-search-bug": {
+      "path": "."
+    },
+    "chef-solo-search": {
+      "locked_version": "0.5.1"
+    }
+  }
+}
